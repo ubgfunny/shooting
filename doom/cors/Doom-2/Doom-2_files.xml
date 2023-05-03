@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Doom-2_archive.torrent" source="metadata">
+    <btih>f1518ff32dbfe31535b936669a4a5b44988947b0</btih>
+    <mtime>1666028538</mtime>
+    <size>2158</size>
+    <md5>ced81c242e6376c63a8aa8ec79f229ff</md5>
+    <crc32>0379e01a</crc32>
+    <sha1>104cea38e3210ceaeef0af12ae2e444ac6f669f6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Doom-2_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d246dd2365b18833f21eb49735397944</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Doom-2_meta.sqlite" source="original">
+    <mtime>1531861704</mtime>
+    <size>14336</size>
+    <md5>85d9d2b354fb4e688dac7f30b1377ff4</md5>
+    <crc32>f2c173db</crc32>
+    <sha1>06e22bd15596697479fcd25bde4d8718b3f284a9</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Doom-2_meta.xml" source="original">
+    <mtime>1657228894</mtime>
+    <size>1206</size>
+    <format>Metadata</format>
+    <md5>65408648ac8708a6e5a694bf2e8ac0fd</md5>
+    <crc32>f31152d4</crc32>
+    <sha1>131afe1a512f730e4d0cd1a748c4aca2482e5db3</sha1>
+  </file>
+  <file name="Doom-2_reviews.xml" source="original">
+    <mtime>1666028536</mtime>
+    <size>5283</size>
+    <format>Metadata</format>
+    <md5>9da7bfef1450b7b150b87addc357c8d6</md5>
+    <crc32>c09eb240</crc32>
+    <sha1>4f5d559094e9939e07b2f7a07c35bdf2d12e5eb5</sha1>
+  </file>
+  <file name="Doom2.zip" source="original">
+    <mtime>1531861680</mtime>
+    <size>6781542</size>
+    <md5>453a179389ade0ca4b6bf7eed681f86c</md5>
+    <crc32>7aba5333</crc32>
+    <sha1>5fb9117cd674e7cf6e4f393487ccc6e781bfe037</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="Doom2_screenshot.png" source="original">
+    <mtime>1531861700</mtime>
+    <size>30433</size>
+    <md5>1e2b72eb7888ab5206137d9d762a4ba2</md5>
+    <crc32>df9a98d9</crc32>
+    <sha1>74db62de7f5315f6e22a054b8c10d57756e782c7</sha1>
+    <format>Emulator Screenshot</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1633184282</mtime>
+    <size>13883</size>
+    <md5>dcd07a0fd200cc05f5e7dcd09417a3e2</md5>
+    <crc32>780171a9</crc32>
+    <sha1>10acafa53182dac7b4d8cda2301c47a2d30de5a4</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

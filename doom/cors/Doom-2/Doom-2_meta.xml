@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>Doom-2</identifier>
+  <mediatype>software</mediatype>
+  <collection>softwarelibrary_msdos_games</collection>
+  <creator>Id Software</creator>
+  <date>1994</date>
+  <description>Video game "Doom 2" / "Doom II" for MS-DOS, 1994. The zip includes "DeathManager", a utility that helped setting up multiplayer games (IPX, modem or serial cable)</description>
+  <emulator>dosbox</emulator>
+  <language>eng</language>
+  <license>abandonware</license>
+  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
+  <subject>video game</subject>
+  <subject>MS-DOS</subject>
+  <title>Doom 2 (MS-DOS)</title>
+  <publicdate>2018-07-17 21:08:01</publicdate>
+  <uploader>bultro@libero.it</uploader>
+  <addeddate>2018-07-17 21:08:01</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20180717211343[/date][comment]checked for malware[/comment]</curation>
+  <year>1994</year>
+  <emulator_start>doom2</emulator_start>
+  <emulator_ext>zip</emulator_ext>
+  <backup_location>ia906709_3</backup_location>
+  <collection>softwarelibrary_msdos</collection>
+  <collection>softwarelibrary</collection>
+  <collection>emulation</collection>
+</metadata>
